@@ -19,4 +19,4 @@ No seu terminal é possível instalar com homebrew
   ```
 
 ------------------------------------------
-  Próximo módulo > [0.2 - rodando splunk](./modulos/0/02-rodando-o-splunk)
+  Próximo módulo > [0.2 - rodando splunk](./02-rodando-o-splunk)
