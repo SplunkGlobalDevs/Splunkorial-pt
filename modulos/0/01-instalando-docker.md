@@ -5,6 +5,7 @@ Docker é uma plataforma aberta para desenvolvimento, envio e execução de apli
 ## Como instalar
  Você pode baixar direto [no site](https://docs.docker.com/get-docker/), ou seguir os simples passos abaixo.
 ### Windows
+Download direto do [Docker Hub](https://docs.docker.com/docker-for-windows/install/).
 
 ### Linux
 No seu terminal é possível instalar com apt-get

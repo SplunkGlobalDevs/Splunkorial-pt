@@ -8,5 +8,6 @@
  (texto do link)[./caminho/para/meu-arquivo]
  ```
  - não é preciso colocar a extensão do arquivo no path do link (o .md no caso)
- -----------------
- [Voltar para o início](./README).
+
+-----------------
+[Voltar para o início](./README).
